@@ -1,0 +1,281 @@
+Adjectives
+knapp just
+kahl bald
+klar clear
+lahm lame
+morsch rotten
+nackt naked
+platt flat
+plump ungainly
+rasch hasty
+roh raw
+rund round
+sanft gently
+satt fed up
+schlank slim
+stolz proud
+stumm mute
+stumpf dull
+toll great
+voll full
+wahr true
+zahm tame
+brav well behaved
+bunt colorful
+flach flat
+falsch false
+froh glad
+hohl hollow
+bang fearful
+blass pale
+glatt smooth
+dumm stupid
+fromm religious
+gesund healthy
+krumm crooked
+nass wet
+schmal narrow
+zart tender
+
+Descriptive phrases
+abhängig von dependent on
+allergisch gegen allergic to
+anders als different from
+arm an poor in
+aufgeregt über excited about
+aufmerksam auf aware of
+bedeckt mit bedecked with
+begeistert über enthusiastic about
+bekannt wegen known as
+bereit zu ready for
+berühmt um famous for
+besessen vom obsessed over
+besorgt um worried about
+bewusst aware of
+böse auf angry with
+charakteristisch für characteristic of
+dankbar für thankful for
+durstig nach thristy for
+eifersüchtig auf jealous of
+empfindlich gegen sensitive against
+empört über indignant about
+enttäuscht von responsible for
+erstaunt über amazed at
+fähig zu capable of
+freundlich zu friendly to
+gespannt auf curious about
+gierig nach greedy for
+glücklich über happy about
+gut in good at
+neidisch auf envious about
+zufrieden mit satisfied with
+
+verbs
+backen bake backte
+befehlen command befahl befehlen befehlt befahl command
+beißen bite biss
+bergen rescue barg
+beginnen begin begann
+biegen biegt bog geboggen bend biegen biegt bog geboggen bend
+bieten bietet bot geboten offer bieten bietet bot geboten offer
+binden bindt bond gebunden bond
+bitten bittet bat gebeten ask
+blasen bläst blies geblasen blast blasen bläst blies geblasen blast
+bleiben bleibt blieb geblieben stay
+braten brät briet gebraten roast
+brechen bricht brach gebrochen break
+brennen brennt brannte gebrannt burn
+bringen bringt brachte gebracht bring
+denken denkt dachte gedacht think
+dürfen darf durft gedurft may
+ershrecken erschrickt ershrak erschrocken scare erschrecken erschrickt erschrack erschrecken scare
+essen isst aß gegessen eat
+fahren fährt fuhr gefahren go/drive
+fallen fällt fiel gefallen fall
+fangen fängt fing gefangen catch
+finden findet fand gefunden find
+fliegen fliegt flog geflogen fly
+fliehen flieht floh geflohen flee
+fließen fließt floss geflossen flow
+fressen frisst fraß gefressen eat
+frieren friert fror gefroren freeze
+gebären gebärt gebar geboren give birth gebären gebärt gebar geboren give birth
+gelingen gelingt gelang ist gelungen succeed gelingen gelingt gelang ist gelungen
+gelten gilt galt gegolten to be valid gelten gilt galt gegolten to be valid
+genesen genest genas genesen recover
+genießen genießt genoss genossen enjoy genießen genießt genoss genossen
+geschehen geschieht geschah ist geschehen happen geschehen geschiet geschah ist geschehen happen
+gewinnen gewinnt gewann gewonnen win
+gießen gießt goss gegossen pour
+gleichen gleicht glich geglichen resemble
+gleiten gleitet glitt geglitten glide gleiten gleitet glitt geglitten glide
+graben gräbt grub gegraben dig
+greifen greift griff gegriffen grab
+haben hat hatte gehabt have
+halten hält hielt gehalten hold
+hängen hängt hing gehangen hang
+heben hebt hob gehoben lift
+heißen heißt heiß geheißen call
+helfen hilft half geholfen help
+kennen kennt kannte gekannt know
+klingen klingt klang geklungen sound
+kniefen kneift kniff gekniffen pinch
+kommt kam ist gekommen come
+kann konnte gekonnte can
+kriecht kroch gekrochen crawl
+lädt lud geladen load
+lassen lässt ließ gelassen let
+laufen läuft lief ist gelaufen run
+leiden leidet litt gelitten suffer
+leihen leiht lieh geliehen lend
+lesen liest las gelesen read
+liegen liegt lag gelegen lie
+lügen lügt log gelogen lie
+meiden meidt mied gemieden avoid meiden meidt mied gemieden avoid
+messen misst maß gemessen measure messen misst maß gemessen measure
+mögen mag mochte gemocht like
+müssen muss musste gemusst must
+nehmen nimmt nahm benommen take
+nenne nennt nann genannt name nennen nennt nann genannt name
+pfeifen pfeift pfiff gepfiffen whistle pfeifen pfeift pfiff gepfiffen whistle
+preisen preist pries gepriesen praise
+raten rät riet geraten advise raten rät riet geraten advise
+reiben reibt rieb gerieben rub
+reißen reißt riss gerissen tear reißen reißt riss gerissen tear
+reiten reitet ritt geritten ride
+rennen rennt rannte gerannt run
+riechten riecht roch gerochen smell riechten riecht roch gerochen smell
+rufen ruft rief gerufen call rufen ruft rief gerufen call
+salzen salzt salzte gesalzen salt
+säufen säuft soff gesoffen booze säufen säuft soff gesoffen booze
+schaffen schafft schuff geschaffen create
+scheiden scheidet schied geschieden separate
+scheinen scheint schien geschienen shine
+scheißen scheißt schiss geschissen shit
+schelten schilt scholt gescholten scold
+schieben schiebt schob geschoben push
+schießen schießt schoss geschossen shoot
+schlafen schläft schlief geschlafen sleep
+schlagen schlägt schlug geschlagen hit
+schleichen schleicht schlich ist geschlichen sneak
+schließen schließt schloss geschlossen shut
+schlingen schlingt schlang geschlungen wind
+schmeißen schmeißt schmiss geschmissen chuck schmeißen schmeißt schmiss geschmissen chuck
+schmelzen schmilzt schmolz geschmolzen melt
+
+entweder...oder either or
+weder...noch neither nor
+sowie ... als/wie auch both ...and 
+nicht nur....sondern auch not only but also
+
+words
+quer straight gerade
+Mitte center
+Stadt city
+durch Zufall through change/by chance
+Die Gaststätte ist durch Feuer zerstört worden.
+The(f) Restaurant is through Fire destroyed been.
+Sie gingen am Fluss entlang
+
+Ordinal
+erster
+zweiter
+dritter
+...ter
+zwanzigster
+
+ein halber die Hälfte
+anderthalb
+Achtel drittel sechszehntel
+0.5% NUll Komma fünf Prozent
+im Alter von vierzehn Jahren
+Er ist Anfang/Mitte/Ende sechzig. sechzigern.
+der ....jährige. The xx-year-old.
+eine Dame mittleren Alters
+exactly on time: pünktlich, Punkt
+umgefähr um acht Uhr
+Januar Februar März April Juni Juli August Oktober Dezember
+Er bleibt bis zum neunten elften auf Rhodos.
+bis zum till the ninth of november
+Dates : D..ten M...ten von 19 hundred XY
+
+Wie viel verbraucht ihr Auto??
+
+5 mal 5
+Quadratmeter
+Kubikmeter
+
+Marks
+befriedigend fair
+genügend satisf
+mangelhaft poor
+ungenügend not satis
+Fail x pass
+durchfall x durchkomm/bestehen
+
+Fensterscheibe Window Pane
+kaputt broken
+Kanzler PM of a nation
+Eile hurry
+
+etwas something/what
+nichts nothing
+irgendwo somewhere
+nirgendwo nowhere
+jemand someone
+niemand noone
+jemals sometimes
+niemals never
+
+Question tag:
+oder?
+nicht wahr? (all)
+gell?
+nicht? 
+ne?
+
+Sogar : Even
+Nichts einmal : Not even (not once)
+
+platz square
+dreieck triangle
+rechteck rectangle
+kreis circle
+
+wahlrecht suffrage
+wehrpflicht compulsory military service
+
+hochschule university
+hochschulreife university entrance
+
+bezeichnet designated
+benennen designate
+
+entsprechendes corresponding
+zeugnis certificate
+obst fruit
+wassermelone watermelon
+kürbis pumpkin
+
+die Krawatte tie
+das hemd shirt
+
+ich trage eine Anzug (suit)
+
+Farben:
+blau
+rot
+grün
+weiß
+schwarz
+gelb
+lila 
+kastanienbraun maroon
+braun
+violett
+Indigo
+rosa
+orange
+grau
+hautfarbe skin color
+ocker ochre
