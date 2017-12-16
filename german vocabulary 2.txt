@@ -7,9 +7,9 @@ der salat salad
 das brot bread
 die scheibe brot breadsticks
 die wurst sausage
-die w�rste sausages
+die würste sausages
 Tomaten Tomatoes
-der K�se Cheese
+der Käse Cheese
 die gew�rzgurken pickles
 die zweibeln onions
 der senf mustard
@@ -148,3 +148,6 @@ Schwager Brother in law
 Schwägerin Sister in law
 Onkel Tante
 Mutti
+
+Modellsatz Model Kit
+Zertifikat certificate

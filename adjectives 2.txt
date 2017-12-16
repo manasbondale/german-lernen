@@ -3,7 +3,7 @@ knapp just
 klar clear
 bunt colorful
 kalt cold
-hei� hot
+heiß hot
 schlank slim
 stumm mute
 dumm stupid
@@ -36,9 +36,9 @@ schwierig difficult
 einfach easy
 ruhig quiet
 harmlos harmless
-fl�ssig fluid
+flüssig fluid
 puppig cute
-m�helos effortless
+mühelos effortless
 neu new
 neugierig curious
 gierig greedy
@@ -48,8 +48,8 @@ hart hard
 rau rough
 sauber, reinig clean
 dreckig dirty
-gro�artig great
-gro� great
+großartig great
+groß great
 blass pale
 flach flat
 falsch false
