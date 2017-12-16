@@ -38,34 +38,34 @@ schmal narrow
 zart tender
 
 Descriptive phrases
-abhängig von dependent on
+abhï¿½ngig von dependent on
 allergisch gegen allergic to
 anders als different from
 arm an poor in
-aufgeregt über excited about
+aufgeregt ï¿½ber excited about
 aufmerksam auf aware of
 bedeckt mit bedecked with
-begeistert über enthusiastic about
+begeistert ï¿½ber enthusiastic about
 bekannt wegen known as
 bereit zu ready for
-berühmt um famous for
+berï¿½hmt um famous for
 besessen vom obsessed over
 besorgt um worried about
 bewusst aware of
-böse auf angry with
-charakteristisch für characteristic of
-dankbar für thankful for
+bï¿½se auf angry with
+charakteristisch fï¿½r characteristic of
+dankbar fï¿½r thankful for
 durstig nach thristy for
-eifersüchtig auf jealous of
+eifersï¿½chtig auf jealous of
 empfindlich gegen sensitive against
-empört über indignant about
-enttäuscht von responsible for
-erstaunt über amazed at
-fähig zu capable of
+empï¿½rt ï¿½ber indignant about
+enttï¿½uscht von responsible for
+erstaunt ï¿½ber amazed at
+fï¿½hig zu capable of
 freundlich zu friendly to
 gespannt auf curious about
 gierig nach greedy for
-glücklich über happy about
+glï¿½cklich ï¿½ber happy about
 gut in good at
 neidisch auf envious about
 zufrieden mit satisfied with
@@ -73,49 +73,49 @@ zufrieden mit satisfied with
 verbs
 backen bake backte
 befehlen command befahl befehlen befehlt befahl command
-beißen bite biss
+beiï¿½en bite biss
 bergen rescue barg
 beginnen begin begann
 biegen biegt bog geboggen bend biegen biegt bog geboggen bend
 bieten bietet bot geboten offer bieten bietet bot geboten offer
 binden bindt bond gebunden bond
 bitten bittet bat gebeten ask
-blasen bläst blies geblasen blast blasen bläst blies geblasen blast
+blasen blï¿½st blies geblasen blast blasen blï¿½st blies geblasen blast
 bleiben bleibt blieb geblieben stay
-braten brät briet gebraten roast
+braten brï¿½t briet gebraten roast
 brechen bricht brach gebrochen break
 brennen brennt brannte gebrannt burn
 bringen bringt brachte gebracht bring
 denken denkt dachte gedacht think
-dürfen darf durft gedurft may
+dï¿½rfen darf durft gedurft may
 ershrecken erschrickt ershrak erschrocken scare erschrecken erschrickt erschrack erschrecken scare
-essen isst aß gegessen eat
-fahren fährt fuhr gefahren go/drive
-fallen fällt fiel gefallen fall
-fangen fängt fing gefangen catch
+essen isst aï¿½ gegessen eat
+fahren fï¿½hrt fuhr gefahren go/drive
+fallen fï¿½llt fiel gefallen fall
+fangen fï¿½ngt fing gefangen catch
 finden findet fand gefunden find
 fliegen fliegt flog geflogen fly
 fliehen flieht floh geflohen flee
-fließen fließt floss geflossen flow
-fressen frisst fraß gefressen eat
+flieï¿½en flieï¿½t floss geflossen flow
+fressen frisst fraï¿½ gefressen eat
 frieren friert fror gefroren freeze
-gebären gebärt gebar geboren give birth gebären gebärt gebar geboren give birth
+gebï¿½ren gebï¿½rt gebar geboren give birth gebï¿½ren gebï¿½rt gebar geboren give birth
 gelingen gelingt gelang ist gelungen succeed gelingen gelingt gelang ist gelungen
 gelten gilt galt gegolten to be valid gelten gilt galt gegolten to be valid
 genesen genest genas genesen recover
-genießen genießt genoss genossen enjoy genießen genießt genoss genossen
+genieï¿½en genieï¿½t genoss genossen enjoy genieï¿½en genieï¿½t genoss genossen
 geschehen geschieht geschah ist geschehen happen geschehen geschiet geschah ist geschehen happen
 gewinnen gewinnt gewann gewonnen win
-gießen gießt goss gegossen pour
+gieï¿½en gieï¿½t goss gegossen pour
 gleichen gleicht glich geglichen resemble
 gleiten gleitet glitt geglitten glide gleiten gleitet glitt geglitten glide
-graben gräbt grub gegraben dig
+graben grï¿½bt grub gegraben dig
 greifen greift griff gegriffen grab
 haben hat hatte gehabt have
-halten hält hielt gehalten hold
-hängen hängt hing gehangen hang
+halten hï¿½lt hielt gehalten hold
+hï¿½ngen hï¿½ngt hing gehangen hang
 heben hebt hob gehoben lift
-heißen heißt heiß geheißen call
+heiï¿½en heiï¿½t heiï¿½ geheiï¿½en call
 helfen hilft half geholfen help
 kennen kennt kannte gekannt know
 klingen klingt klang geklungen sound
@@ -123,49 +123,50 @@ kniefen kneift kniff gekniffen pinch
 kommt kam ist gekommen come
 kann konnte gekonnte can
 kriecht kroch gekrochen crawl
-lädt lud geladen load
-lassen lässt ließ gelassen let
-laufen läuft lief ist gelaufen run
+loden lÃ¶dt lud geladen load
+lassen lÃ¤sst lieÃŸ gelassen let
+laufen lÃ¤uft lief ist gelaufen run
 leiden leidet litt gelitten suffer
 leihen leiht lieh geliehen lend
 lesen liest las gelesen read
 liegen liegt lag gelegen lie
-lügen lügt log gelogen lie
+lÃ¼gen lÃ¼gt log gelogen lie
 meiden meidt mied gemieden avoid meiden meidt mied gemieden avoid
-messen misst maß gemessen measure messen misst maß gemessen measure
-mögen mag mochte gemocht like
-müssen muss musste gemusst must
+messen misst maÃŸ gemessen measure messen misst maï¿½ gemessen measure
+mï¿½gen mag mochte gemocht like
+mï¿½ssen muss musste gemusst must
 nehmen nimmt nahm benommen take
 nenne nennt nann genannt name nennen nennt nann genannt name
 pfeifen pfeift pfiff gepfiffen whistle pfeifen pfeift pfiff gepfiffen whistle
 preisen preist pries gepriesen praise
-raten rät riet geraten advise raten rät riet geraten advise
+raten rï¿½t riet geraten advise raten rï¿½t riet geraten advise
 reiben reibt rieb gerieben rub
-reißen reißt riss gerissen tear reißen reißt riss gerissen tear
+reiï¿½en reiï¿½t riss gerissen tear reiï¿½en reiï¿½t riss gerissen tear
 reiten reitet ritt geritten ride
 rennen rennt rannte gerannt run
 riechten riecht roch gerochen smell riechten riecht roch gerochen smell
 rufen ruft rief gerufen call rufen ruft rief gerufen call
+
 salzen salzt salzte gesalzen salt
-säufen säuft soff gesoffen booze säufen säuft soff gesoffen booze
+sï¿½ufen sï¿½uft soff gesoffen booze sï¿½ufen sï¿½uft soff gesoffen booze
 schaffen schafft schuff geschaffen create
 scheiden scheidet schied geschieden separate
 scheinen scheint schien geschienen shine
-scheißen scheißt schiss geschissen shit
+scheiï¿½en scheiï¿½t schiss geschissen shit
 schelten schilt scholt gescholten scold
 schieben schiebt schob geschoben push
-schießen schießt schoss geschossen shoot
-schlafen schläft schlief geschlafen sleep
-schlagen schlägt schlug geschlagen hit
+schieï¿½en schieï¿½t schoss geschossen shoot
+schlafen schlï¿½ft schlief geschlafen sleep
+schlagen schlï¿½gt schlug geschlagen hit
 schleichen schleicht schlich ist geschlichen sneak
-schließen schließt schloss geschlossen shut
+schlieï¿½en schlieï¿½t schloss geschlossen shut
 schlingen schlingt schlang geschlungen wind
-schmeißen schmeißt schmiss geschmissen chuck schmeißen schmeißt schmiss geschmissen chuck
+schmeiï¿½en schmeiï¿½t schmiss geschmissen chuck schmeiï¿½en schmeiï¿½t schmiss geschmissen chuck
 schmelzen schmilzt schmolz geschmolzen melt
 
 entweder...oder either or
 weder...noch neither nor
-sowie ... als/wie auch both ...and 
+sowie ... als/wie auch both ...and
 nicht nur....sondern auch not only but also
 
 words
@@ -173,7 +174,7 @@ quer straight gerade
 Mitte center
 Stadt city
 durch Zufall through change/by chance
-Die Gaststätte ist durch Feuer zerstört worden.
+Die Gaststï¿½tte ist durch Feuer zerstï¿½rt worden.
 The(f) Restaurant is through Fire destroyed been.
 Sie gingen am Fluss entlang
 
@@ -184,17 +185,17 @@ dritter
 ...ter
 zwanzigster
 
-ein halber die Hälfte
+ein halber die Hï¿½lfte
 anderthalb
 Achtel drittel sechszehntel
-0.5% NUll Komma fünf Prozent
+0.5% NUll Komma fï¿½nf Prozent
 im Alter von vierzehn Jahren
 Er ist Anfang/Mitte/Ende sechzig. sechzigern.
-der ....jährige. The xx-year-old.
+der ....jï¿½hrige. The xx-year-old.
 eine Dame mittleren Alters
-exactly on time: pünktlich, Punkt
-umgefähr um acht Uhr
-Januar Februar März April Juni Juli August Oktober Dezember
+exactly on time: pï¿½nktlich, Punkt
+umgefï¿½hr um acht Uhr
+Januar Februar Mï¿½rz April Juni Juli August Oktober Dezember
 Er bleibt bis zum neunten elften auf Rhodos.
 bis zum till the ninth of november
 Dates : D..ten M...ten von 19 hundred XY
@@ -207,9 +208,9 @@ Kubikmeter
 
 Marks
 befriedigend fair
-genügend satisf
+genï¿½gend satisf
 mangelhaft poor
-ungenügend not satis
+ungenï¿½gend not satis
 Fail x pass
 durchfall x durchkomm/bestehen
 
@@ -231,7 +232,7 @@ Question tag:
 oder?
 nicht wahr? (all)
 gell?
-nicht? 
+nicht?
 ne?
 
 Sogar : Even
@@ -255,7 +256,7 @@ entsprechendes corresponding
 zeugnis certificate
 obst fruit
 wassermelone watermelon
-kürbis pumpkin
+kï¿½rbis pumpkin
 
 die Krawatte tie
 das hemd shirt
@@ -265,11 +266,11 @@ ich trage eine Anzug (suit)
 Farben:
 blau
 rot
-grün
-weiß
+grï¿½n
+weiï¿½
 schwarz
 gelb
-lila 
+lila
 kastanienbraun maroon
 braun
 violett

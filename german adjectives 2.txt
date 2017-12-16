@@ -3,7 +3,7 @@ knapp just
 klar clear
 bunt colorful
 kalt cold
-heiß hot
+heiï¿½ hot
 schlank slim
 stumm mute
 dumm stupid
@@ -31,14 +31,14 @@ licht light
 hell bright
 traurig sad
 weit far
-nähe near/close
+nï¿½he near/close
 schwierig difficult
 einfach easy
 ruhig quiet
 harmlos harmless
-flüssig fluid
+flï¿½ssig fluid
 puppig cute
-mühelos effortless
+mï¿½helos effortless
 neu new
 neugierig curious
 gierig greedy
@@ -48,8 +48,8 @@ hart hard
 rau rough
 sauber, reinig clean
 dreckig dirty
-großartig great
-groß great
+groï¿½artig great
+groï¿½ great
 blass pale
 flach flat
 falsch false
@@ -59,12 +59,12 @@ fromm religious
 gesund healthy
 schmal narrow
 nass wet
-krumm crooked 
+krumm crooked
 bang fearful
 voll full
 toll great
 mutig brave
-stark strong 
+stark strong
 feige cowardly feigling coward
 
 die Anklage gegen jemanden the accusation against someone

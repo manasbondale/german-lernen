@@ -7,15 +7,15 @@ der salat salad
 das brot bread
 die scheibe brot breadsticks
 die wurst sausage
-die würste sausages
+die wï¿½rste sausages
 Tomaten Tomatoes
-der Käse Cheese
-die gewürzgurken pickles
+der Kï¿½se Cheese
+die gewï¿½rzgurken pickles
 die zweibeln onions
 der senf mustard
-das hähnchen chicken
-die hähnchen chickens
-die meeresfrüchte seafood
+das hï¿½hnchen chicken
+die hï¿½hnchen chickens
+die meeresfrï¿½chte seafood
 der fisch fish
 die beilage-n sides-es
 die suppe-n soup-s
@@ -27,7 +27,7 @@ mais corn
 die bohne bean
 nachspeisen dessert
 der kuchen cake
-das stücke kuchen piece of cake
+das stï¿½cke kuchen piece of cake
 die pastete pie
 die apfelpastete apple pie
 das eis ice cream
@@ -39,25 +39,25 @@ mittagessen lunch
 abendessen dinner
 der hunger hunger
 der durst thirst
-dankeschön thank you very much
+dankeschï¿½n thank you very much
 chinesisch
 japanisch
 amerikanisch
 italienisch
-französisch
+franzï¿½sisch
 grieschisch
 lecker delicious
 schmackhaft tasty
 saftig juicy
 knackig crunchy
 knusprig crispy
-würzig spicy
+wï¿½rzig spicy
 Fad stale
 Salzig salty
-sweet süß
+sweet sï¿½ï¿½
 sauer sour
 cremig creamy
-heiß hot
+heiï¿½ hot
 angebrannt brunt
 kalt cold
 schrecklich disgusting
@@ -66,37 +66,85 @@ der ober waiter
 
 die babyartikel babywear
 die kinderbekleidung children's wear
-der räumungsverkauf the clearance sale
+der rÃ¤umungsverkauf the clearance sale
 geschlossen closed
 die kosmetik cosmetic
 der kunde customer
 der kundendienst customer service
-das elektrogerät electric appliance
+das elektrogerÃ¤t electric appliance
 die rolltrepe the escalator
 die mode fashion
-das möbel furniture
+das mÃ¶bel furniture
 der geschenkartikel gift
 preiswert well-priced
 die lebensmittel groceries
 damenschuhe jewellery
 die lederwaren leather goods
-geöffnet open
-die öffnungzeit open hours
+geÃ¶ffnet open
+die Ã¶ffnungzeit open hours
 reduziert reduced
 der kassenbon sales receipt
 das andenken souvenir
 das sonderangebot special offer
-shreibwaren stationary
+schreibwaren stationary
 der sommerschlussverkauf summer sale
 die videothek video store
 warenhaus department store
-einzelhandelgeschäft retail store
+einzelhandelgeschÃ¤ft retail store
 einkaufszentrum mall
-geschäft store
+geschÃ¤ft store
 
 angestellte employee
-verkäufer sales clerk
+verkÃ¤ufer sales clerk
 kassierer cashier
 umkleidekabine dressing room
-männerabteilung men's section
+mÃ¤nnerabteilung men's section
 frauenabteilung women's section
+
+der lautsprecher the speaker
+die Hausputz housecleaning
+die Hausrienigung the housecleaning
+
+Der Rock skirt
+Der Pullover sweater
+Das Tuch scarf
+Der Mantel coat
+Das hemd shirt
+Der Schlips necktie
+die jacke
+die hose
+der hut
+die schuh
+die socke
+der handschuh handgloves
+die bluse blouse
+
+die grÃ¶ÃŸe size
+die farbe color
+die baumwollen cotton
+das leder leather
+die kuntseide rayon
+
+klein
+mittel
+groÃŸ
+extragroÃŸ
+
+billig
+teuer
+schÃ¶n
+hÃ¤sslich ugly
+weich soft
+neu new
+breit broad
+weit wide
+eng tight
+bequem comfortable
+
+Oma Opa
+Enkel Enkelin
+Schwiegervater Father in law
+Schwager Brother in law
+SchwÃ¤gerin Sister in law
+Onkel Tante
+Mutti
