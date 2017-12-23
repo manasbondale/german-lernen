@@ -1,31 +1,32 @@
 german tenses
 
 present indicative : sie hat ihn gefragt, warum er ihr nicht mitkommt.
-subjunctive 2 : sie hat ihn gefragt, warum er ihr nicht mitkäme.
+subjunctive 2 : sie hat ihn gefragt, warum er ihr nicht mitkï¿½me.
 
 present indicative : sie hat ihn gefragt, warum er ihr nicht geholfen hat.
-subjunctive 2 : sie hat ihn gefragt, warum er ihr nicht geholfen hätte.
+subjunctive 2 : sie hat ihn gefragt, warum er ihr nicht geholfen hï¿½tte.
 
 present indicative : sie hat ihn gefragt, warum er ihr nicht mitgegangen ist.
-subjunctive 2 : sie hat ihn gefragt, warum er ihr nicht mitgegangen wäre.
+subjunctive 2 : sie hat ihn gefragt, warum er ihr nicht mitgegangen wï¿½re.
 
-wäre wärest wäre wären wäret wären
-hätte hättest hätte hätten hättet hätten
-käme kämest käme kämen kämet kämen
+wï¿½re warest wï¿½re wï¿½ren wï¿½ret wï¿½ren
+hï¿½tte hï¿½ttest hï¿½tte hï¿½tten hï¿½ttet hï¿½tten
+kï¿½me kï¿½mest kÃ¤me kÃ¤men kï¿½met kï¿½men
 ginge gingest ginge gingen ginget gingen
 
-Wenn Krieg ausbrechen würde,
+Wenn Krieg ausbrechen wÃ¼rde,
 If war would break out,
+Wenn Krieg ausbrechen wÃ¼rde,
 
-Wenn Krieg ausbräche,
+Wenn Krieg ausbreache,
 If war broke out,
 
 Sollte Krieg ausbrechen,
 Should war break out,
 
-Er hätte es machen können. He couldve done it
+Er hï¿½tte es machen kï¿½nnen. He couldve done it
 
-Er hätte ..thing...verb... können.  He could've ..verb...thing.
+Er hï¿½tte ..thing...verb... kï¿½nnen.  He could've ..verb...thing.
 
 Der Mord wird von der Polizei untersucht. Present tense. is
 
@@ -35,13 +36,13 @@ Der Mord wurde untersucht worden. Perfect tense. has been
 
 Der Mord wurde untersucht worden. Pluperfect. Had been
 
-Der Mord würde untersucht werden. Future. Will be.
+Der Mord wï¿½rde untersucht werden. Future. Will be.
 
-Der Mord würde untersucht worden sein. Future perfect. Will have been.
+Der Mord wï¿½rde untersucht worden sein. Future perfect. Will have been.
 
-Der Mord wäre untersucht worden. Conditional perfect. Would have been.
+Der Mord wï¿½re untersucht worden. Conditional perfect. Would have been.
 
-Der Mord würde untersucht werden. Conditional future. Would be.
+Der Mord wï¿½rde untersucht werden. Conditional future. Would be.
 
-Das hätte gemacht werden können. That could've been done.
-Das hätte gemacht werden sollen. That should've been done.
+Das hï¿½tte gemacht werden kï¿½nnen. That could've been done.
+Das hï¿½tte gemacht werden sollen. That should've been done.
