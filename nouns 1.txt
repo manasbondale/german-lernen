@@ -1,13 +1,13 @@
 german nouns
-die Fälle the cases
+die FÃ¤lle the cases
 Beispiel example
-Übungen exercises
+Ãœbungen exercises
 das Auto
 das Bier
 die Blume flower
 das Buch
 das Geschenk the present
-gießen to water
+gieÃŸen to water
 krank ill
 der Opa grandfather
 anschauen to watch
@@ -15,11 +15,11 @@ ansehen to watch
 der Deutschkurs the german learning courses
 das Haus house
 der Film movie
-der Schüler the student 
-der Spaß fun
+der SchÃ¼ler the student 
+der Spaï¿½ fun
 der Freund
-die Prüfung exam
-die Musik 
+die Prï¿½fung exam
+die Musik
 das Krankenhaus hospital
 die Hose trousers
 der Kopf head
@@ -27,35 +27,35 @@ der Bahnhof train station
 das bett
 abgeben to submit
 adwarten to await
-anhören to listen
+anhï¿½ren to listen
 anziehen to put on clothes
 aufmachen to open
 aufschlagen to open (book)
-aufschließen to unlock
+aufschlieï¿½en to unlock
 bekommen to receive
 aufschreiben to write down
 bestellen to order
 einsteigen to access
-erklärken to explain
+erklï¿½rken to explain
 erwarten to expect
 die ferien holiday
 der geburtstag
 gefallen to delight
 die jacke the jacket
 das stipendium scholarship
-die tür door
+die tï¿½r door
 vorhaben to have plans
 vorlesen to read out
-wiederholen to repeat 
+wiederholen to repeat
 das wort word
 zerbrechen to break something
 der zug train
 verabschieden to say goodbye
 die eltern the parents
-das gepäck the luggage
+das gepï¿½ck the luggage
 der unterricht lesson
 die rechnung the bill/receipt
-aufräumen tidy up
+aufrï¿½umen tidy up
 parken park
 die pause break
 der pilot
@@ -67,21 +67,21 @@ das Lied song
 die Schule school
 die Tasse cup
 die Zeitung newspaper
-der Apfel 
+der Apfel
 der Baum tree
 der brief letter
 die brille glasses
 die geschwister siblings
-der Hund 
+der Hund
 der Mensch
 der Kuchen cake
 das Handy
-pflücken to pick
+pflï¿½cken to pick
 der Tag
 der Monat
 der Name
 das land
-die Straße street
+die Straï¿½e street
 die Zahl number
 die Antwort answer
 der fehler error
@@ -94,7 +94,7 @@ das wasser
 die banane
 das glas
 der garten
-die Äpfel
+die ï¿½pfel
 der stift pen
 der bleistift pencil
 der Kugelschreiber the ballpen
@@ -108,11 +108,11 @@ der tisch
 der orange
 die traube grape
 der teller plate
-die Küche the kitchen
+die Kï¿½che the kitchen
 die Halle hall
 das zimmer room
 die fluss river
-das geschäft shop
+das geschï¿½ft shop
 die Polizei
 das schreiben
 der aufsatz essay
@@ -120,7 +120,7 @@ die harte arbeit the hardwork
 die polizei police
 die rektor principal
 das prinzip principle
-das medizinische geschäft
+das medizinische geschï¿½ft
 die markt
 das fahrrad bike
 die schuh shoe
@@ -140,5 +140,4 @@ ansteigen get in bus/train
 aufsteigen get off bus/train
 der beruf the profession
 unterrichten to teach
-die lösung solution
-
+die lï¿½sung solution
